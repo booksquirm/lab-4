@@ -1,0 +1,22 @@
+
+/*
+I'll work on this more when project 2 is due to make it better.
+*/
+
+h1 {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    height:auto;
+    width: 80%;
+  }
+  
+  .slides {
+    width:400px;
+    margin:auto;
+  }
+  .carousel-control-next {
+    float:right;
+  }
