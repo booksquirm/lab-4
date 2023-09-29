@@ -3,12 +3,19 @@ const carouselInner = carousel.querySelector('.carousel-inner');
 const carouselPrev = carousel.querySelector('.carousel-control-prev');
 const carouselNext = carousel.querySelector('.carousel-control-next');
 
-// Create an array of image URLs.
+// The 12 images I'm using in this carousel. This is an array.
 const images = [
   'halloween-image1.jpg',
   'halloween-image2.jpg',
   'halloween-image3.jpg',
-  ...
+  'halloween-image4.jpg',
+  'halloween-image5.jpg',
+  'halloween-image6.jpg',
+  'halloween-image7.jpg',
+  'halloween-image8.jpg',
+  'halloween-image9.jpg',
+  'halloween-image10.jpg',
+  'halloween-image11.jpg',
   'halloween-image12.jpg',
 ];
 
